@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "demo": "docker-voting-app-gcp"
+  }
+}
