@@ -116,4 +116,4 @@ The complete code can be found in [functions/index.js]. All the rest of the
 project is auto generated using [firebase-tools].
 
 [functions/index.js]: https://github.com/seriousme/docker-voting-app-gcp/functions/index.js
-[firebase cli]: https://www.npmjs.com/package/firebase-tools
+[firebase-tools]: https://www.npmjs.com/package/firebase-tools
